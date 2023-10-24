@@ -45,6 +45,8 @@
 
 "Closure": "false",
 
+"Delay": "1",
+
 "Show": "on"
 
 }
