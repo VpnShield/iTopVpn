@@ -15,7 +15,7 @@
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
 "MessageID": "1",
-"ShowTime": "10",
+"ShowTime": "100",
 "Button": "عضویت",
 "ButtonCancell": " بعدا ",
 "Closure": "true",
