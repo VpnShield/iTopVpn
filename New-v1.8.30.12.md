@@ -19,7 +19,7 @@
 "Button": "عضویت",
 "ButtonCancell": " بعدا ",
 "Closure": "true",
-"Delay": "0",
+"Delay": "1",
 "Show": "on"
 }
 
