@@ -14,7 +14,7 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
+"Cancellable": "true",
 "MessageID": "1",
 "ShowTime": "999",
 "Button": "  دریافت نسخه جدید  ",
