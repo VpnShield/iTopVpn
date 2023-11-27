@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
 "Button": "  دریافت نسخه جدید  ",
 "ButtonCancell": " بعدا ",
-"Closure": "true",
+"Closure": "false",
 "Show": "on"
 }
