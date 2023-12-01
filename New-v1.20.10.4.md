@@ -1,1 +1,24 @@
-
+{
+"Title": "#اطلاعیه",
+"Description": "سلام ، نسخه اصلی برنامه دچار مشکلاتی شده و اصلا اجرا نمیشه ، نسخه مود هم به طور شانسی برای بعضیا کار میکنه ، اگر برای شما وصل نمیشه بیا داخل کانال تا مشکل حل شه",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "39",
+"ShowTime": "999",
+"Button": "   عضویت در کانال  ",
+"ButtonCancell": " نیاز نیست ",
+"Closure": "true",
+"Show": "on"
+}
