@@ -1,10 +1,10 @@
 {
 "Title": "❗️   اطلاعیه   ❗️",
-"Description": "کاربر عزیز ، شما داخل کانال تلگرام ما عضو نیستی ، فورا دکمه را عضویت لمس کن و عضو بشو ، در غیر این صورت فیلترشکن شما بزودی قطع میشه 🙏🏻",
-"Link": "tg://join?invite=qFnTciYSoWhlYTQ0",
-"ColorWave": "#00B0FF",
+"Description": "بزودی فیلترینگ شدیدتری اعمال میشه ، برای جلوگیری از قطع شدن اینترنت خوتون لطفا فورا عضو کانال تلگرامی ما شوید 🌹",
+"Link": "tg://join?invite=TqGubwYkAJdiMmY8",
+"ColorWave": "#ffff00",
 "Color": "#00B0FF",
-"ColorWaveTwo": "#40C4FF",
+"ColorWaveTwo": "#ffff80",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,7 +15,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "55668558",
+"MessageID": "9295527835",
 "ShowTime": "3",
 "Button": " ⏩  عضویت اجباری  ⏪ ",
 "ButtonCancell": "  ",
